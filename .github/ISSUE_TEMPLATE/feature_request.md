@@ -1,4 +1,4 @@
-# TITLE: "title goes here"  
+# FEATuRE TITLE: "title goes here"  
   
 ## Describe Feature:  
 "eg: aadding good photos in the catalog"  
